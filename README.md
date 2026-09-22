@@ -1,6 +1,6 @@
 # Hi, I'm Manmeet 👋
 
-ENC (Electronics & Computer Engineering) undergrad at **Thapar Institute of Engineering & Technology**, Patiala (TIET '30)
+ENC (Electronics & Computer Engineering) undergrad at **Thapar Institute of Engineering & Technology**, Patiala (TIET '30)<br>
 Aspiring **Cloud & DevOps Engineer**
 
 - 🐍 Hands-on with **Python** and the fundamentals of **AWS** and **Oracle Cloud**
